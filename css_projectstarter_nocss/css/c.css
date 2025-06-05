@@ -1,0 +1,44 @@
+/* 1. Style thẻ body */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* 2. Style thẻ header */
+header {
+  background-color: #f0f0f0;
+}
+
+/* 3. Style thẻ nav */
+nav {
+  background-color: #dcdcdc;
+}
+
+/* 4. Style thẻ main */
+main {
+  background-color: #fffbe6;
+  font-size: 18px;
+}
+
+/* 5. Style thẻ footer */
+footer {
+  background-color: #e0e0e0;
+}
+
+/* 6. Style thẻ li */
+li {
+  display: inline-block;
+  width: 120px;
+}
+
+/* 7. Style thẻ h1 */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #333333;
+}
+
+/* 8. Style thẻ p */
+p {
+  line-height: 1.6;
+}
